@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "Al",
+      "password": "$2a$10$L92F7lDdRe9ZO7GaFB4j3OdXmnNDWG/nWQKX15dWxBNsmHVjLtEqy",
+      "email": "test_3@mail.ru",
+      "id": 3
+    },
+    {
+      "email": "test2@mail.ru",
+      "password": "$2a$10$d6Cpknq1SBTdsIvCcjIVK.esOVl/G1.ObvrnQpMvPuARk2kzx4VYq",
+      "id": 4,
+      "name": "Alex"
+    },
+    {
+      "email": "test1@mail.ru",
+      "password": "$2a$10$eWIm8RXsID3.9fMxlEc8/eIquRisjlWJZL2/9k/k/Duj52xYAd18u",
+      "id": 2,
+      "name": "Alex"
+    },
+    {
+      "email": "test@mail.ru",
+      "password": "$2a$10$CE7./bbfBiAOLjhK751.5OsCrb9RmpLUTJeW/wtYrU.P7RR0LI1Wy",
+      "name": "Alex",
+      "id": 5
+    },
+    {
+      "email": "test7@mail.ru",
+      "password": "$2a$10$1lETlEZwuK4rGBYwOkqzRuKJI1pO/lbNxfUfnz9ifRrSPf4OMfLze",
+      "name": "Alex",
+      "id": 6
+    },
+    {
+      "name": "Петя Петрович",
+      "password": "$2a$10$iTbiemKwDaAxz5WZtH6t6e5sQd.hrz5JLyER6jWYhN0es40WyFG92",
+      "email": "test404@mail.ru",
+      "id": 7
+    },
+    {
+      "email": "test40@mail.ru",
+      "password": "$2a$10$lIdUZ5Kma2JajrUkXa5yPOH7LBGtu0/QZRt8dWcTW2CB3bTkKL/2y",
+      "name": "miha",
+      "id": 8
+    },
+    {
+      "email": "test74@mail.ru",
+      "password": "$2a$10$K/4p1R1AyiKH9KTfow7x3umZdAmyL5rmoZ1n2w1v.Eapi.GR6pdkK",
+      "name": "Fefia",
+      "id": 9
+    }
+  ]
+}
